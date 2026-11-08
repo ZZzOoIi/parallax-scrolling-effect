@@ -7,7 +7,7 @@
 滚动页面时，每屏的背景图片固定不动，前景文字内容随滚动上移，产生强烈的视差层次感。
 
 <video width="100%" controls>
-  <source src="./视差滚动效果.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/ZZzOoIi/parallax-scrolling-effect/main/demo.mp4" type="video/mp4">
 </video>
 
 ## 技术实现
